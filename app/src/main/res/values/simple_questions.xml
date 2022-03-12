@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="Simple_questions">
+        <item>What is Android?</item>
+        <item>What is the google Android SDK?</item>
+       <item>What are the features of Android architecture?</item>
+       <item>List the languages used to build Android?</item>
+        <item>What is an activity?</item>
+        <item>What is a service in Android?</item>
+        <item>What is the use of Bundle in Android?</item>
+        <item>What is an Adapter in Android?</item>
+       <item>What is AAPT?</item>
+        <item>What is Android Debug Bridge(ADB)?</item>
+
+    </string-array>
+
+
+</resources>

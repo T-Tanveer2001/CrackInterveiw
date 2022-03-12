@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_answers">
+<item>Android is an open-sourced operating system that is used on mobile devices, such as mobiles and tablets</item>
+<item>The Google Android SDK is a toolset used by developers to write applications on Android-enabled devices. </item>
+<item>Android architecture refers to the various layers in the Android stack. It consists of operating systems, middleware, and applications.</item>
+        <item>Java,kotlin,C#,python</item>
+        <item>Activity in java is a single screen that represents GUI(Graphical User Interface) with which users can interact in order to do something like dial the phone, view email, etc</item>
+        <item> Service is an application component that facilitates an application to run in the background in order to perform long-running operations without user interaction </item>
+   <item>Bundles are used to pass the required data between various Android activities. These are like HashMap that can take trivial data types.</item>
+   <item>An adapter in Android acts as a bridge between an AdapterView and the underlying data for that view </item>
+        <item>AAPT stands for Android Asset Packaging Tool. It is a build tool that gives the ability to developers to view, create, and update ZIP-compatible archives (zip, jar, and apk).</item>
+        <item>Android Debug Bridge is a command-line tool used to allow and control communication with an emulator instance.</item>
+    </string-array>
+</resources>

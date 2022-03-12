@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="true_false">
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+
+    </string-array>
+</resources>

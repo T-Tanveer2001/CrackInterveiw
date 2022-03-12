@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="quiz">
+        <item>operating system</item>
+        <item>padding</item>
+        <item>margin</item>
+        <item>certain page</item>
+        <item>IDE</item>
+
+    </string-array>
+
+
+</resources>
